@@ -48,3 +48,4 @@ Notes and usage details for hosts.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- add a note about the defaults
